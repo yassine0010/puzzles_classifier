@@ -1,0 +1,13 @@
+{
+  "report_version": "1.0",
+  "taxonomy_version": "0.1.0",
+  "source": "records/",
+  "summary": {
+    "total_candidates": 0,
+    "domain": 0,
+    "subdomain": 0,
+    "family": 0,
+    "skill": 0
+  },
+  "suggestions": []
+}

@@ -1,0 +1,112 @@
+version: "0.1.0"
+
+domains:
+  math:
+    name: "Math"
+    subdomains:
+      arithmetic: "Arithmetic"
+      algebra: "Algebra"
+      number_theory: "Number theory"
+      sequences: "Sequences and series"
+      combinatorics: "Combinatorics"
+
+  logic:
+    name: "Logic"
+    subdomains:
+      ordering: "Ordering and ranking"
+      assignment: "Assignment and matching"
+      constraint_satisfaction: "Constraint satisfaction"
+      deduction: "Deductive reasoning"
+      truth_tellers: "Truth-teller and liar puzzles"
+      syllogisms: "Syllogisms"
+
+  graph_theory:
+    name: "Graph Theory"
+    subdomains:
+      shortest_path: "Shortest path"
+      connectivity: "Connectivity"
+      traversal: "Graph traversal"
+      cycles: "Cycles"
+      coloring: "Graph coloring"
+      matching: "Matching"
+      trees: "Trees"
+
+  geometry:
+    name: "Geometry"
+    subdomains:
+      shapes: "Shapes and properties"
+      angles: "Angles"
+      triangles: "Triangles"
+      area_and_perimeter: "Area and perimeter"
+      coordinates: "Coordinate geometry"
+      transformations: "Transformations"
+      symmetry: "Symmetry"
+
+  probability:
+    name: "Probability"
+    subdomains:
+      basic_probability: "Basic probability"
+      counting_probability: "Counting-based probability"
+      conditional_probability: "Conditional probability"
+      expected_value: "Expected value"
+      distributions: "Distributions"
+
+  algorithms:
+    name: "Algorithms"
+    subdomains:
+      sorting: "Sorting"
+      searching: "Searching"
+      greedy_algorithms: "Greedy algorithms"
+      dynamic_programming: "Dynamic programming"
+      complexity: "Complexity and efficiency"
+      graph_algorithms: "Graph algorithms"
+      recursion: "Recursion"
+
+  programming:
+    name: "Programming"
+    subdomains:
+      code_tracing: "Code tracing"
+      debugging: "Debugging"
+      output_prediction: "Output prediction"
+      syntax: "Syntax"
+      data_structures: "Data structures"
+      recursion: "Recursion"
+
+  word_puzzles:
+    name: "Word Puzzles"
+    subdomains:
+      anagrams: "Anagrams"
+      word_ladders: "Word ladders"
+      cryptograms: "Cryptograms"
+      crosswords: "Crosswords"
+      word_logic: "Word-based logic"
+      vocabulary: "Vocabulary"
+
+skills:
+  pattern_recognition: "Pattern recognition"
+  logical_reasoning: "Logical reasoning"
+  deductive_reasoning: "Deductive reasoning"
+  working_memory: "Working memory"
+  spatial_reasoning: "Spatial reasoning"
+  sequence_memory: "Sequence memory"
+  problem_decomposition: "Problem decomposition"
+  numerical_reasoning: "Numerical reasoning"
+  algorithmic_thinking: "Algorithmic thinking"
+  verbal_reasoning: "Verbal reasoning"
+  attention_to_detail: "Attention to detail"
+  visual_discrimination: "Visual discrimination"
+
+puzzle_families:
+  sequence_completion: "Sequence completion"
+  arrangement: "Arrangement and ordering"
+  assignment: "Assignment and matching"
+  path_finding: "Path finding"
+  transformation: "Visual transformation"
+  spatial_matching: "Spatial matching"
+  word_manipulation: "Word manipulation"
+  code_execution: "Code execution or tracing"
+
+sentinels:
+  unknown_domain: "unknown"
+  unknown_subdomain: "unknown"
+  unknown_puzzle_family: "unknown"

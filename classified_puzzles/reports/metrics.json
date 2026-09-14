@@ -1,0 +1,30 @@
+{
+  "total_attempted": 6,
+  "total_records": 2,
+  "total_errors": 4,
+  "schema_valid_rate": 0.3333,
+  "unknown_rate": {
+    "domain": 0,
+    "subdomain": 0,
+    "puzzle_family": 0
+  },
+  "low_confidence_rate": {
+    "domain_below_0.80": 0,
+    "subdomain_below_0.75": 0
+  },
+  "discovery_suggestion_count": 0,
+  "review_queue": {
+    "pending": 0,
+    "needs_taxonomy": 0,
+    "rejected": 1,
+    "approved": 1,
+    "total_for_review": 0
+  },
+  "domain_distribution": {
+    "math": 2
+  },
+  "family_distribution": {
+    "arrangement": 1,
+    "sequence_completion": 1
+  }
+}

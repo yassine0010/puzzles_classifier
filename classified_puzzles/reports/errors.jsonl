@@ -1,0 +1,4 @@
+{"puzzle_id": "Puzzle-7", "image_path": "input_puzzles/Puzzle-7.jpg", "error": "Ollama returned HTTP 400: {\"error\":\"{\\\"error\\\":{\\\"code\\\":400,\\\"message\\\":\\\"request (4252 tokens) exceeds the available context size (4096 tokens), try increasing it\\\",\\\"type\\\":\\\"exceed_context_size_error\\\",\\\"n_prompt_tokens\\\":4252,\\\"n_ctx\\\":4096}}\"}", "error_type": "OllamaError"}
+{"puzzle_id": "Puzzle-7", "image_path": "input_puzzles/Puzzle-7.jpg", "error": "timed out", "error_type": "ReadTimeout"}
+{"puzzle_id": "Puzzle-7", "image_path": "input_puzzles/Puzzle-7.jpg", "error": "timed out", "error_type": "ReadTimeout"}
+{"puzzle_id": "Puzzle-7", "image_path": "input_puzzles/Puzzle-7.jpg", "error": "Failed to parse Pass 2 output: Expecting ',' delimiter: line 34 column 6 (char 1072)", "error_type": "PassTwoError"}
